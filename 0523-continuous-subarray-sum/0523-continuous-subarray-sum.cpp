@@ -7,9 +7,10 @@ public:
         for(int i=0; i<nums.size();i++){
             sum+=nums[i];
            
-            if(map.find(sum%k)==map.end()) map[sum%k]=i+1;
+            if(map.find(sum%k)==map.end()) 
+            {map[sum%k]=i+1;}
             
-            else if(map[sum%k]<i) return true;
+            else if(map[sum%k]<i){ return true;}
         }
         return false;
     }
