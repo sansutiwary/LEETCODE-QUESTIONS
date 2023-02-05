@@ -4,6 +4,7 @@ public:
     vector<int> findAnagrams(string s, string p) {
           int s_len = s.length();
         int p_len = p.length();
+         vector<int> ans;
         
         if(s.size() < p.size()) return {};
         
@@ -16,7 +17,7 @@ public:
             window[s[i]-'a']++;
         }
         
-        vector<int> ans;
+       
         if(freq_p == window) ans.push_back(0);
         
         for(int i=p_len;i<s_len;i++){
