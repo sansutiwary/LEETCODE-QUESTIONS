@@ -10,7 +10,8 @@ public:
                 i-=count;
                 count=0;
             }
-            if(count==needle.size()) return i-=count-1;
+            if(count==needle.size())   return i-=count-1; 
+            
         }
         return -1;
         
