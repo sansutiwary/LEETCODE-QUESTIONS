@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
@@ -25,4 +26,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
