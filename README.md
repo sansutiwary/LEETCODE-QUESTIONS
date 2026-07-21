@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
