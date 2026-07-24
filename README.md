@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -38,4 +39,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
