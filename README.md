@@ -16,12 +16,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -61,4 +63,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
