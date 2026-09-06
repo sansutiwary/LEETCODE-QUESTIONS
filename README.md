@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
 | ------- |
