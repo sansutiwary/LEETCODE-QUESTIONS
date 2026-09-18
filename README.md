@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -92,5 +93,6 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
