@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0069-sqrtx) |
 ## Matrix
 |  |
 | ------- |
@@ -95,10 +96,15 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
