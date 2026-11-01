@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1901-find-a-peak-element-ii](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/1901-find-a-peak-element-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1901-find-a-peak-element-ii](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/1901-find-a-peak-element-ii) |
 ## Newton's Method
 |  |
 | ------- |
