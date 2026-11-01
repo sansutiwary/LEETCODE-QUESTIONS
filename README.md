@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -102,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0875-koko-eating-bananas) |
