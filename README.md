@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0053-maximum-subarray) |
@@ -121,9 +122,14 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0014-longest-common-prefix) |
 | [1903-largest-odd-number-in-string](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
