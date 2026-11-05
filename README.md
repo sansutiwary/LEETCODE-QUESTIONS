@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0069-sqrtx) |
+| [1903-largest-odd-number-in-string](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -117,4 +118,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/sansutiwary/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
